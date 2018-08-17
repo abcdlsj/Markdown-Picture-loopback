@@ -20,6 +20,6 @@ python所需要的大多数库，具体请看 `library_installation.py` 文件
 - 打开 `upload_get.py` 文件并运行，修改其中一些东西，文件中注释详细说明
 - Ctrl+V 粘贴即可
 
-### demo
+### demo GIF
 
 ![](https://graph-bed-1256708472.cos.ap-chengdu.myqcloud.com/demo.gif)

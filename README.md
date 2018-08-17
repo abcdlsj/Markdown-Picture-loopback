@@ -22,4 +22,4 @@ python所需要的大多数库，具体请看 `library_installation.py` 文件
 
 ### demo GIF
 
-![](https://graph-bed-1256708472.cos.ap-chengdu.myqcloud.com/demo.gif)
+![](https://res.cloudinary.com/dc15efw34/image/upload/v1534466014/8.17/demo.gif)
